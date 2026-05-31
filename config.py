@@ -35,7 +35,8 @@ class Config:
             "http://localhost:5500",
             "http://127.0.0.1:5500",
             "http://localhost:8080",
-            "null",   # file:// protocol for local HTML
+            "null", 
+            "https://1sangam2.github.io",# file:// protocol for local HTML
         ]
 
     @property
